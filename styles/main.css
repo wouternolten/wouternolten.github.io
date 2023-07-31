@@ -59,6 +59,10 @@ h2 {
     border-radius: 50%;
 }
 
+.mb--1 {
+    margin-bottom: 1rem;
+}
+
 :root {
     --header-height: 60px;
     --footer-height: 60px;
